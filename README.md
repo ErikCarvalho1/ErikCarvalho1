@@ -1,7 +1,7 @@
 # 👨‍💻 Erik Carvalho
 **`Desenvolvedor FullStack`**
 
-Sou um jovem de 19 anos que está iniciando sua trajetória no mundo da programação. Atualmente, estou cursando o técnico em Desenvolvimento de Sistemas, oferecido pelo SENAC, uma instituição de ensino reconhecida pela qualidade na formação profissional. Estou animado com as oportunidades e desafios que essa área oferece e buscando, a cada dia, aprimorar meus conhecimentos e habilidades.
+Sou um jovem de 20 anos que está iniciando sua trajetória no mundo da programação. Atualmente, estou cursando o técnico em Desenvolvimento de Sistemas, oferecido pelo SENAC, uma instituição de ensino reconhecida pela qualidade na formação profissional. Estou animado com as oportunidades e desafios que essa área oferece e buscando, a cada dia, aprimorar meus conhecimentos e habilidades.
 
 ---
 ### 🚀Linguagens e Tecnologias
