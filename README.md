@@ -56,13 +56,7 @@ width =  "60px"
 style = "padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img 
-align= "left"
-alt="HTML"
-title = "HTML"
-width =  "60px"
-style = "padding-right: 10px;" 
-src="[https://vetores.org/wp-content/uploads/bootstrap.png](https://w7.pngwing.com/pngs/804/269/png-transparent-bootstrap-hd-logo.png)" />
+
 
 
 
