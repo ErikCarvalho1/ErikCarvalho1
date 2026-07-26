@@ -1,63 +1,172 @@
-# 👨‍💻 Erik Carvalho
-**`Desenvolvedor FullStack`**
+<div align="center">
 
-Sou um jovem de 20 anos que está iniciando sua trajetória no mundo da programação. Atualmente, estou cursando o técnico em Desenvolvimento de Sistemas, oferecido pelo SENAC, uma instituição de ensino reconhecida pela qualidade na formação profissional. Estou animado com as oportunidades e desafios que essa área oferece e buscando, a cada dia, aprimorar meus conhecimentos e habilidades.
+# Olá, eu sou o Erik Carvalho 👋
+
+### Desenvolvedor Backend | .NET | C# | PHP | MySQL
+
+Transformando ideias em sistemas escaláveis, APIs e soluções web.
+
+</div>
 
 ---
-### 🚀Linguagens e Tecnologias
 
-<img 
-align= "left"
-alt="HTML"
-title = "HTML"
-width =  "60px"
-style = "padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+## 🚀 Sobre mim
 
-<img
-align= "left"
-alt="HTML"
-title = "HTML"
-width =  "60px"
-style = "padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+Sou desenvolvedor backend apaixonado por tecnologia e resolução de problemas.
 
+Tenho experiência no desenvolvimento de sistemas utilizando **C#/.NET**, **PHP** e **MySQL**, além de conhecimentos em desenvolvimento web moderno e administração de servidores Linux.
 
-<img
-align= "left"
-alt="HTML"
-title = "HTML"
-width =  "60px"
-style = "padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+Atualmente estou focado em criar aplicações robustas, APIs, sistemas administrativos, automações e soluções para empresas e pequenos negócios.
 
+---
 
-<img 
-align= "left"
-alt="HTML"
-title = "HTML"
-width =  "60px"
-style = "padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+## 💼 Serviços
 
-<img 
-align= "left"
-alt="HTML"
-title = "HTML"
-width =  "60px"
-style = "padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+✔ Desenvolvimento de Sistemas em C#/.NET
 
-<img 
-align= "left"
-alt="HTML"
-title = "HTML"
-width =  "60px"
-style = "padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+✔ Desenvolvimento de APIs REST
 
+✔ Banco de Dados MySQL
 
+✔ CRUDs completos
 
+✔ Landing Pages Responsivas
 
+✔ Sites Institucionais
 
+✔ Correção de Bugs
 
+✔ Deploy de aplicações
+
+✔ Administração de Servidores Linux
+
+✔ Configuração de Hospedagem
+
+✔ Integração de Banco de Dados
+
+---
+
+# 💻 Tecnologias
+
+### Backend
+
+- C#
+- .NET
+- PHP
+
+### Banco de Dados
+
+- MySQL
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Bootstrap
+- Ionic
+
+### Ferramentas
+
+- Git
+- GitHub
+- Linux
+- Deploy
+- Administração de Servidores
+
+---
+
+# 📂 Projetos em destaque
+
+## 🔐 Sistema de Login
+
+Sistema completo de autenticação utilizando C# e MySQL.
+
+### Tecnologias
+
+- C#
+- .NET
+- MySQL
+
+---
+
+## 📦 Sistema de Estoque
+
+Sistema CRUD para gerenciamento de produtos.
+
+### Recursos
+
+- Cadastro
+- Login
+- Controle de Estoque
+- Banco de Dados MySQL
+
+---
+
+## 🛠 Sistema de Ordem de Serviço
+
+Projeto voltado para assistências técnicas.
+
+### Funcionalidades
+
+- Cadastro de clientes
+- Equipamentos
+- Ordem de Serviço
+- Técnicos
+- Histórico
+- Banco MySQL
+
+---
+
+## 🌐 Landing Pages
+
+Criação de páginas modernas, rápidas e responsivas para empresas.
+
+---
+
+# 📈 Atualmente estudando
+
+- Arquitetura de Software
+- Clean Architecture
+- ASP.NET Core
+- APIs REST
+- Docker
+- Cloud
+- CI/CD
+
+---
+
+# 🎯 Objetivo
+
+Busco oportunidades como Desenvolvedor Backend e também projetos freelance envolvendo:
+
+- Sistemas Web
+- APIs
+- Bancos de Dados
+- Landing Pages
+- Correção de Bugs
+- Deploy
+- Infraestrutura Linux
+
+---
+
+# 📫 Contato
+
+📧 Email: seuemail@email.com
+
+💼 LinkedIn:
+https://linkedin.com/in/seuusuario
+
+🌐 Portfólio:
+https://seuportfolio.com
+
+---
+
+<div align="center">
+
+## Obrigado pela visita! 🚀
+
+Sempre aberto para novos desafios e oportunidades.
+
+</div>
