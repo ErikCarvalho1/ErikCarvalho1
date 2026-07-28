@@ -1,5 +1,5 @@
 # 👨‍💻 Erik Carvalho
-**`Desenvolvedor Backend | .NET | C# `**
+**`Desenvolvedor Full Stack  `**
 
 Sou desenvolvedor backend com foco na criação de sistemas, APIs e bancos de dados. Tenho experiência com **C#/.NET**, **PHP**, **MySQL** e desenvolvimento web, além de conhecimentos em deploy de aplicações e administração de servidores Linux. Estou sempre buscando aprimorar minhas habilidades e desenvolver soluções eficientes, escaláveis e de qualidade.
 
